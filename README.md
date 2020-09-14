@@ -36,9 +36,9 @@
 ### Website Responsiveness:
 <br>
 
-<img src = "https://raw.githubusercontent.com/kanchitank/Responsive-Web-Design-Animations/master/gifs/8.gif" height="500"/> &nbsp; &nbsp; &nbsp; <img src = "https://raw.githubusercontent.com/kanchitank/Responsive-Web-Design-Animations/master/gifs/9.gif" height="500"/> &nbsp; &nbsp; &nbsp; <img src = "https://raw.githubusercontent.com/kanchitank/Responsive-Web-Design-Animations/master/gifs/10.gif" height="500"/> <br><br>
+<img src = "https://raw.githubusercontent.com/kanchitank/Responsive-Web-Design-Animations/master/gifs/8.gif" height="500"/> &nbsp; &nbsp; <img src = "https://raw.githubusercontent.com/kanchitank/Responsive-Web-Design-Animations/master/gifs/9.gif" height="500"/> &nbsp; &nbsp; <img src = "https://raw.githubusercontent.com/kanchitank/Responsive-Web-Design-Animations/master/gifs/10.gif" height="500"/> <br><br>
 ---
-<img src = "https://raw.githubusercontent.com/kanchitank/Responsive-Web-Design-Animations/master/gifs/11.gif" height="500"/> &nbsp; &nbsp; &nbsp; <img src = "https://raw.githubusercontent.com/kanchitank/Responsive-Web-Design-Animations/master/gifs/12.gif" height="500"/> &nbsp; &nbsp; &nbsp; <img src = "https://raw.githubusercontent.com/kanchitank/Responsive-Web-Design-Animations/master/gifs/13.gif" height="500"/> <br><br>
+<img src = "https://raw.githubusercontent.com/kanchitank/Responsive-Web-Design-Animations/master/gifs/11.gif" height="500"/> &nbsp; &nbsp; <img src = "https://raw.githubusercontent.com/kanchitank/Responsive-Web-Design-Animations/master/gifs/12.gif" height="500"/> &nbsp; &nbsp; <img src = "https://raw.githubusercontent.com/kanchitank/Responsive-Web-Design-Animations/master/gifs/13.gif" height="500"/> <br><br>
 ---
-<img src = "https://raw.githubusercontent.com/kanchitank/Responsive-Web-Design-Animations/master/gifs/14.gif" height="500"/> &nbsp; &nbsp; &nbsp; <img src = "https://raw.githubusercontent.com/kanchitank/Responsive-Web-Design-Animations/master/gifs/15.gif" height="500"/>
+<img src = "https://raw.githubusercontent.com/kanchitank/Responsive-Web-Design-Animations/master/gifs/14.gif" height="500"/> &nbsp; &nbsp; <img src = "https://raw.githubusercontent.com/kanchitank/Responsive-Web-Design-Animations/master/gifs/15.gif" height="500"/>
 ---
