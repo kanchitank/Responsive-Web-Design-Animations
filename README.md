@@ -1,6 +1,6 @@
 # Responsive Web Design with Animations
 
-### Created a web design inspired by [Pixelgrade's](https://pixelgrade.com/) -> [Wordpress Theme](https://pixelgrade.com/themes/restaurants/rosa2/) using HTML5, CSS3 and JavaScript.
+### Created a web design inspired by [Pixelgrade's](https://pixelgrade.com/) -> [WordPress Theme](https://pixelgrade.com/themes/restaurants/rosa2/) using HTML5, CSS3 and JavaScript.
 ### Here are some of the looks of the website:
 
 ![](https://raw.githubusercontent.com/kanchitank/Responsive-Web-Design-Animations/master/gifs/1.gif)
