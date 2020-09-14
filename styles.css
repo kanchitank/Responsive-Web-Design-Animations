@@ -62,7 +62,7 @@ header{
     position: absolute;
     top: 0;
     left: 0;
-    z-index: 1;
+    z-index: 10;
     background-image: linear-gradient(to bottom, rgba(0,0,0,.5), transparent);
 }
 
@@ -177,7 +177,7 @@ header{
     opacity: 0;
     animation: fadeUp .5s forwards;
     animation-delay: .5s;
-    z-index: 1000;
+    z-index: 1;
 }
 
 .sub-headline1{
@@ -191,7 +191,7 @@ header{
     opacity: 0;
     animation: fadeUp .5s forwards;
     animation-delay: .5s;
-    z-index: 1000;
+    z-index: 1;
 }
 
 .sub-headline2{
@@ -205,14 +205,14 @@ header{
     opacity: 0;
     animation: fadeUp .5s forwards;
     animation-delay: .5s;
-    z-index: 1000;
+    z-index: 1;
 }
 
 .first-letter{
     text-transform: uppercase;
     position: relative;
     font-size: 10.3rem;
-    z-index: 1000;
+    z-index: 1;
 }
 
 .headline-main{
