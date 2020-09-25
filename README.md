@@ -84,7 +84,7 @@
 <br><br>
 ---
 
-<img src = "https://raw.githubusercontent.com/kanchitank/Responsive-Web-Design-Animations/master/Dynamic_website/form_validation_images/6.JPG" height="460"/>
+<img src = "https://github.com/kanchitank/Responsive-Web-Design-Animations/blob/master/Dynamic_website/form_validation_images/6.jpg" height="460"/>
 <br><br>
 
 ### MySQL Entries:
