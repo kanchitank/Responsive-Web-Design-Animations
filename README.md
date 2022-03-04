@@ -1,6 +1,6 @@
 # Responsive Web Design with Animations
 
-### Created a web design inspired by [Pixelgrade's](https://pixelgrade.com/) -> [WordPress Theme](https://pixelgrade.com/themes/restaurants/rosa2/):
+<!-- ### Created a web design inspired by [Pixelgrade's](https://pixelgrade.com/) -> [WordPress Theme](https://pixelgrade.com/themes/restaurants/rosa2/):-->
 **1.  A Static website using HTML5, CSS3 and JavaScript. <br>
 2. A Dynamic website using HTML5, CSS3, JavaScript, PHP, MySQL, AJAX and JSON**.
 
